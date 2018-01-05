@@ -6,7 +6,7 @@ Simple and very light-weight javascript to animate text.
 
 Import script by linking it to your project:
 
-`<script type="text/javascript" src="script.js"></script>`
+`<script type="text/javascript" src="typeanim.js"></script>`
 
 Inside a span tag with "typewrite" class, add the text you want to animate: data-type='[ "arg1", "arg2", "arg3", "arg4" ]
 
